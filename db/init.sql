@@ -1,6 +1,6 @@
 CREATE DATABASE animaldb;
 
-USE animaldb
+/c animaldb
 
 CREATE TABLE animals (
     id SERIAL PRIMARY KEY,
