@@ -63,7 +63,7 @@ animal-health-tracker/
 ### 🔹 Steps
 
 # Clone the repository
-git clone https://github.com/yourusername/animal-health-tracker.git
+git clone https://github.com/goswami800/animal-health-tracker.git
 cd animal-health-tracker
 
 # Build and start all containers
